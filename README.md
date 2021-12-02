@@ -5,7 +5,9 @@ Premier projet de [42](https://42.fr/) dont le but est de recréer une version s
 ---
 #### Construction du projet :
 
-Arguments makefiles disponibles : `make all`, `make clean`, `make fclean`, `make re`, `make bonus`. 
+Arguments makefiles disponibles : `make all`, `make clean`, `make fclean`, `make re`, `make bonus`.
+
+La bibliothèque générée se nomme `libft.a`.
 
 ---
 #### Functions contenues dans cette blibliothèque :
