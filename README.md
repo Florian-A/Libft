@@ -1,4 +1,4 @@
-# libft
+# Libft
 
 Premier projet de [42](https://42.fr/) dont le but est de recréer une version simplifiée de la blibliotèque libc. 
 
@@ -58,7 +58,7 @@ La bibliothèque générée se nomme `libft.a`.
 | ft_lstiter | `void ft_lstiter(t_list *lst, void (*f)(void *))` |
 | ft_lstmap | `t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *))` |
 ---
-### Correction automatique (moulinette) :
+### Correction :
 ---
 
 | |
