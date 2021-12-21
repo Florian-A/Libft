@@ -3,14 +3,14 @@
 Premier projet de [42](https://42.fr/) dont le but est de recréer une version simplifiée de la blibliotèque libc. 
 
 ---
-#### Construction du projet :
+### Construction du projet :
 
 Arguments makefiles disponibles : `make all`, `make clean`, `make fclean`, `make re`, `make bonus`.
 
 La bibliothèque générée se nomme `libft.a`.
 
 ---
-#### Functions contenues dans cette blibliothèque :
+### Functions contenues dans cette blibliothèque :
 
 | Nom | Prototype |
 | --- | --- |
@@ -58,8 +58,17 @@ La bibliothèque générée se nomme `libft.a`.
 | ft_lstiter | `void ft_lstiter(t_list *lst, void (*f)(void *))` |
 | ft_lstmap | `t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *))` |
 ---
-#### Correction automatique (moulinette) :
+### Correction automatique (moulinette) :
 ---
 
-![](./img/note2.png)  | ![](./img/note1.png) |
----|---|
+| |
+| --- |
+| ![](./img/note2.png) |
+
+
+| | |
+| --- | --- |
+| Moulinette | ![](./img/note1.png) |
+| Correcteur 1 | <img src="./img/correction1.png" /> |
+| Correcteur 2 | <img src="./img/correction2.png" /> |
+| Correcteur 3 | <img src="./img/correction3.png" /> |
