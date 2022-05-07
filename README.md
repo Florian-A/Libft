@@ -1,4 +1,4 @@
-# Libft
+<h1 align="center">Libft</h1>
 
 Premier projet de [42](https://42.fr/) dont le but est de recréer une version simplifiée de la blibliotèque libc. 
 
